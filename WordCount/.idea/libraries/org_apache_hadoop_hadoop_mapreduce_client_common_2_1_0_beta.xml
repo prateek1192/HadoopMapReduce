@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="org.apache.hadoop:hadoop-mapreduce-client-common:2.1.0-beta" type="repository">
+    <properties maven-id="org.apache.hadoop:hadoop-mapreduce-client-common:2.1.0-beta" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-common/2.1.0-beta/hadoop-mapreduce-client-common-2.1.0-beta.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.1.0-beta/hadoop-yarn-common-2.1.0-beta.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-api/2.1.0-beta/hadoop-yarn-api-2.1.0-beta.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.1/commons-io-2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/3.0/guice-3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-test-framework/jersey-test-framework-grizzly2/1.8/jersey-test-framework-grizzly2-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-test-framework/jersey-test-framework-core/1.8/jersey-test-framework-core-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/javax.servlet/3.0/javax.servlet-3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.8.2/junit-4.8.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-grizzly2/1.8/jersey-grizzly2-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.1.1/grizzly-http-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.1.1/grizzly-framework-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/gmbal/gmbal-api-only/3.0.0-b023/gmbal-api-only-3.0.0-b023.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.1.1/grizzly-http-server-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-rcm/2.1.1/grizzly-rcm-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-servlet/2.1.1/grizzly-http-servlet-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/3.1/asm-3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/contribs/jersey-guice/1.8/jersey-guice-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.1.0-beta/hadoop-yarn-client-2.1.0-beta.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.1.0-beta/hadoop-mapreduce-client-core-2.1.0-beta.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-server-common/2.1.0-beta/hadoop-yarn-server-common-2.1.0-beta.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.2/zookeeper-3.4.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jline/jline/0.9.94/jline-0.9.94.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/netty/netty/3.2.2.Final/netty-3.2.2.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/avro/avro/1.5.3/avro-1.5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.7.3/jackson-mapper-asl-1.7.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.0.3.2/snappy-java-1.0.3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-annotations/2.1.0-beta/hadoop-annotations-2.1.0-beta.jar!/" />
+      <root url="jar:///usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-5.b01.fc26.i386/lib/tools.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.5.11.Final/netty-3.5.11.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
