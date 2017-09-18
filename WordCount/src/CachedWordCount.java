@@ -59,7 +59,7 @@ public class CachedWordCount {
                 word.set(itr.nextToken());
                 // Only add the word if it is in cached word set
                 if (display.contains(word.toString())) {
-                    System.out.println("Display contains word");
+                    
                     context.write(word, one);
                 }
             }
